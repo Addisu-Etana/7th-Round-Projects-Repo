@@ -57,7 +57,7 @@ Follow these steps to add your project:
 2. **Clone it to your computer**
 
 ```
-git clone https://github.com/your-username/7th-Round-Projects-Repo.git
+[git clone https://github.com/your-username/7th-Round-Projects-Repo.git](https://github.com/wabiskills/7th-Round-Projects-Repo.git)
 ```
 
 3. **Create a new folder using your name or project name**
