@@ -1,4 +1,4 @@
-## This is Project Assignment on Calculator and TOdoApp.
+## This is Project Assignment on Calculator and TodoApp.
 
 ## Author
 
